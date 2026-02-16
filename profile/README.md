@@ -32,7 +32,7 @@ We design and deliver **end-to-end AI solutions** — from data ingestion and mo
 | **Nivara OTB** | Luxury Retail | Open-to-Buy intelligence platform — 10 modules including forecasting, allocation, supply chain, cost analysis, and AI-driven recommendations with full explainability |
 | **Nivara Lobby** | Legal & Government | Legislative amendment analysis with Explainable AI — extract, classify with confidence scoring, and diff decreto-legge amendments using multi-provider LLMs |
 | **Nivara Health** | Healthcare & IoT | Integrated health monitoring and home automation for elder care — IoT devices, AI-driven behavioral analysis, predictive analytics, and smart automation |
-| **Nivara Logistic** | Finance | AI-powered invoice extraction — automated document processing with multi-format support |
+| **Nivara Logistic** | Logistics | AI-powered document processing and supply chain intelligence — automated extraction with multi-format support |
 
 ### Internal Platform & Infrastructure
 
